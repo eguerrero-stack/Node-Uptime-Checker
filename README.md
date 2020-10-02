@@ -4,4 +4,3 @@ My introduction into Node. This is an uptime checker for users to check on websi
 
 This is completely raw Node without any dependencies.
 
-ES5 and soon to be ES6
