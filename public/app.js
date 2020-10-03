@@ -6,8 +6,8 @@
 // Container for frontend application
 var app = {};
 
-/*@TODO Fix frontend navigation rendering the loggedin/out tabs all the time
-Check to see why websites are claiming to be down when they are not. Must be getting defaulted somewhere
+/*@TODO 
+Check to see why websites are claiming to be down when they are not. Responses from websites are not 200s 
 //Another problem is that previous checks that werent deleted successfully from previous user phone numbers
 // Could not get performance hooks to work, must use performance observer
 // child process spawn error enoent for listing logs. Skipped
